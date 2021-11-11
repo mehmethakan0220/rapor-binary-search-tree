@@ -9,12 +9,12 @@
 ## STEPS
 
 * Root 7 olsun. Sırasıyla elemanları ağaca yerleştirelim.
-  * ​																			7
-    * ​													5                    8
+            7
+      5           8
 
-​															1						6							9
+  1						6							     9
 
-​													0			3
+0			3
 
-​															2		4
+   2		4
 
